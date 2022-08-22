@@ -1,0 +1,13 @@
+requests
+httpagentparser
+psutil
+requests
+wmi
+pycryptodome
+discord==1.7.3
+discord.py==1.7.3
+pillow
+pypiwin32
+alive-progress
+tinyaes
+wheel
